@@ -1,0 +1,11 @@
+Ajax call :
+
+0 --> Request is not initialised
+
+1 --> Request is  initialised
+
+2 --> Server connection is established
+
+3 --> Processing the request
+
+4 --> Ready to give response 

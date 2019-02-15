@@ -2,4 +2,20 @@ git cloning:
 git clone paste url
 
 staging:
- git add --all (or) git add filename
+git add --all (or) git add filename
+
+commiting:
+git commit -m "adding files"
+
+git config --global user.email "github emailid"
+
+git config --global user.name "github username"
+
+git commit -m "adding files"
+
+pushing:
+git push origin master
+
+
+
+.
